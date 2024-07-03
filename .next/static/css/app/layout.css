@@ -1,0 +1,235 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./app/page.module.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.page_mainBody__6_Os_ {
+  background: white;
+}
+
+.page_container__5KI2x {
+  width: 80%;
+  height: 100vh;
+  margin-left: 10%;
+  background: rgb(101, 198, 101);
+}
+
+.page_mailing__0EMpD {
+  width: 70%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  background: rgb(199, 158, 158);
+}
+
+.page_Element__Jlxwk {
+  display: flex;
+  padding: 0 0 0 9px;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  height: auto;
+  font-size: 22px;
+  width: 20%;
+  border: 1px solid red;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.page_numberElement__uChER {
+  display: flex;
+  padding: 0 0 0 9px;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  height: auto;
+  font-size: 22px;
+  width: 10%;
+  border: 1px solid red;
+}
+
+.page_sendBack__O7dd7 {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  margin-left: 30%;
+}
+
+.page_submitButton__OEpon {
+  margin-left: 34%;
+}
+
+.page_button__p5cep {
+  margin: 0px;
+  width: 4em;
+  height: 4em;
+  opacity: 0;
+}
+
+.page_redactor__oPeFZ {
+  height: 1.9em;
+  width: 7%;
+  margin: 19px 5px 5px 3px;
+  background-image: url(/_next/static/media/pencil.3ebb1f3a.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.page_adder__p2tGp {
+  background-image: url(/_next/static/media/plus.5ea0b40b.png);
+}
+
+.page_pagination__JYhm8 {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  margin: 10px 30%;
+  width: 16%;
+  height: 8%;
+}
+
+.page_letter__WI2iu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 45%;
+  margin-top: 15px;
+  width: 190px;
+}
+
+.page_left__EQ4sr {
+  height: 30px;
+  width: 30px;
+  background-image: url(/_next/static/media/left.8252198e.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.page_right__5kUo_ {
+  background-image: url(/_next/static/media/right.6fb4d00d.png);
+}
+
+.page_delete__Mpzpw {
+  background-image: url(/_next/static/media/trash.b2059be2.png);
+}
+
+.page_generalBlock__BBX1n {
+  width: 90%;
+  height: 80%;
+  padding: 2% 5%;
+}
+
+.page_inputWrapper__y_nZg {
+  width: 40%;
+  height: 5%;
+  margin: 0px 20% 20px;
+  padding: 1%;
+  background: white;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+}
+
+.page_inputInput__10mb6 {
+  width: 90%;
+  height: 100%;
+  border: none;
+  outline: none;
+  padding-left: 10px;
+  margin: 0 1px;
+  margin-left: 0;
+}
+
+.page_giftWrapper__cNcix {
+  width: 100%;
+  height: 90%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background: white;
+  margin-top: auto;
+  overflow: scroll;
+}
+
+.page_priceDate__LdJuS {
+  width: auto;
+  height: auto;
+  position: relative;
+}
+
+.page_item__5T8Kt {
+  width: auto;
+  height: auto;
+  margin: 5px;
+  background-color: #f0f0f0;
+  text-align: center;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.page_card__Z9L2N {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 16px;
+  margin: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.page_cardHeader__DLTAF {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.page_cardBody__GYHRY {
+  display: flex;
+  flex-direction: column;
+}
+
+.page_cardElement__PJkPl {
+  margin-bottom: 8px;
+}
+
+.page_avatar__sl9Xe {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.page_cardFooter__zSfMN {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.page_backButton__bX2nH {
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.page_backButton__bX2nH:hover {
+  background-color: #005bb5;
+}
+
+@media screen and (max-width: 1200px) {
+  .page_mailing__0EMpD {
+    width: 90%;
+  }
+}
+@media screen and (max-width: 900px) {
+  .page_container__5KI2x {
+    width: 100%;
+    margin-left: 0;
+  }
+  .page_mailing__0EMpD {
+    width: 99%;
+  }
+  .page_Element__Jlxwk, .page_numberElement__uChER {
+    font-size: 16px;
+  }
+}
